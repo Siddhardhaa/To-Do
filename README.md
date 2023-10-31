@@ -1,7 +1,7 @@
-It is A Basic # To-Do lsit Website whixh let you add your To Do list and You can Delete Each Individual task After Completion!
+It is A Basic # To-Do list Website that lets you add your To-do list and You can Delete Each Individual task After Completion!
 
-It is Written in Basic HTML,CSS and JavaScript
+It is Written in Basic HTML, CSS and JavaScript
 
-Uptil now Complted!
+Uptil is now Completed!
 
 Some Features may be Added!
